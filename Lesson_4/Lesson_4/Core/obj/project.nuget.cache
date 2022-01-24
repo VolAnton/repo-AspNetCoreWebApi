@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "3cCvG2P9H69sgoAdVUUnY8CDKB/Lsiet21fiMWvvrdAMRpljltiVs5yC8Yx6YpGg3SKCf4d3ZYPEz1aCXSLwlw==",
+  "success": true,
+  "projectFilePath": "D:\\VS_Projects_Creator\\GB_ASP.NET Core Web API микросервисы\\Lesson_4 testssss\\Metrics\\Core\\Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.114.2\\stub.system.data.sqlite.core.netstandard.1.0.114.2.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\system.data.sqlite.core\\1.0.114.2\\system.data.sqlite.core.1.0.114.2.nupkg.sha512"
+  ],
+  "logs": []
+}
